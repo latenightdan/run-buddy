@@ -141,6 +141,9 @@ header {
 .steps span {
   font-size: 38px;
 }
+section {
+  padding: 60px;
+}
 .section-title{
   font-size: 55px;
   color: #024e76;
@@ -200,4 +203,25 @@ header {
 }
 .text-right {
   text-align: right;
+}
+.reach{
+  background-color: #024e76;
+  text-align: center;
+
+}
+.more{
+  font-size: 55px;
+  color:#fce138;
+  margin-bottom: 35px;
+  padding: 0 100px 20px 100px;
+  display: inline-block;
+  border-bottom: 3px solid;
+}
+
+.contact-info {
+  line-height: 1.7;
+  color:#fce138;
+  width: 80%;
+  font-size: 20px;
+  margin: 0 auto;
 }
