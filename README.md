@@ -1,15 +1,16 @@
-
-# Run Buddy
+# Run Buddy Inc.
 
 ## Purpose
 A website that offers fitness training services.
 
 ## Built With
 * HTML
+
+
 * CSS
 
 ## Website
 https://latenightdan.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by [your name]
+Made with ❤️ by     [your name]
